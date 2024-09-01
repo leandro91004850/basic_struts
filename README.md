@@ -2,7 +2,7 @@
 
 * [x] Gerando um novo projeto Maven 
 
-![STRUTS.png](resources/images/STRUTS.png)
+![STRUTS.png](src/main/webapp/resources/images/STRUTS.png)
 
 * [x] Adicionando as dependências necessárias
 
@@ -56,4 +56,10 @@
     </plugins>
   </build>
 </project>
+```
+
+* [x] rodando server jetty
+
+```shell
+  mvn jetty:run
 ```
