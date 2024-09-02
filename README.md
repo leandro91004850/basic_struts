@@ -63,3 +63,13 @@
 ```shell
   mvn jetty:run
 ```
+
+* [x] Acessando a aplicação
+
+```shell
+  http://localhost:8080/hello-world/
+```
+
+* [x] Criando uma classe
+
+![2024-09-02_00-45.png](src/main/webapp/resources/images/2024-09-02_00-45.png)
